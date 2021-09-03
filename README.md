@@ -28,11 +28,16 @@ So start
 
 *npm run node5*
 
-After open browser and go to :
+After open browser and go to
+
 http://localhost:3001/blockchain
+
 http://localhost:3002/blockchain
+
 http://localhost:3003/blockchain
+
 http://localhost:3004/blockchain
+
 http://localhost:3005/blockchain
 
 For testing use postman.exe ( recommended ).
