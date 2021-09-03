@@ -17,11 +17,11 @@ Install nodejs latest version, read and understand the package.json.
 Created 5 nodes on 5 ports 3001-3005 .
 
 So start : 
-**npm run node1**
-**npm run node2**
-**npm run node3**
-**npm run node4**
-**npm run node5**
+**npm run node1** \n
+**npm run node2** \n
+**npm run node3** \n 
+**npm run node4** \n 
+**npm run node5** \n
 
 After open browser and go to :
 http://localhost:3001/blockchain
