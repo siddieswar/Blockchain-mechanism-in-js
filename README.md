@@ -16,11 +16,15 @@ How to start node ?
 Install nodejs latest version, read and understand the package.json. 
 Created 5 nodes on 5 ports 3001-3005 .
 
-So start : 
+So start 
 *npm run node1*
+
 *npm run node2*
+
 *npm run node3* 
+
 *npm run node4* 
+
 *npm run node5*
 
 After open browser and go to :
